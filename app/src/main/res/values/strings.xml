@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyInternship</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="npisid">NPISID</string>
+    <string name="password">Password</string>
+    <string name="passwrod">Passwrod</string>
+    <string name="school_email">School-Email</string>
+    <string name="signup">SIGNUP</string>
+    <string name="reflections">Reflections</string>
+    <string name="selecte_studests_from_drop_down_box_for_data">selecte studests from drop down box for data</string>
+    <string name="rrfersh">Rrfersh</string>
+    <string name="please_select_the_school_bellow">Please select the school bellow</string>
+    <string-array name="course_list">
+        <item>FMS</item>
+        <item>HS</item>
+        <item>ICT</item>
+        <item>LSCT</item>
+        <item>SOE</item>
+    </string-array>
+</resources>
